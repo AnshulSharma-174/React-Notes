@@ -56,3 +56,16 @@ Now create a function with the same name as Component name:
 ![image](https://github.com/user-attachments/assets/123ad8db-69df-42a4-9680-e1b939f063c6)  
 ![image](https://github.com/user-attachments/assets/7b4de3a5-2a40-4c82-a0a7-85cbd25e3d0a)
 
+## Conditional Rendering  
+>   Allow us to control whats get rendered in our application based on certain condition(basically if-else)
+
+![image](https://github.com/user-attachments/assets/d1519792-299a-46af-a718-f598e017e7dc)  
+
+This is nothing just conditional statements(if-else)
+and can also be written as  
+
+![image](https://github.com/user-attachments/assets/13039c83-6be5-4888-8f27-a4a6e9a4c19f)  
+
+##Render Lists  
+
+![image](https://github.com/user-attachments/assets/87f8ea6f-396b-4d5f-b8e4-fb3b3456fdf3)
