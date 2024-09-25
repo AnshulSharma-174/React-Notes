@@ -6,12 +6,12 @@
 ### Select Framework(in our case React)  
 ![image](https://github.com/user-attachments/assets/6fbbfb92-66de-4eda-94ab-b62872432fc3)  
 ### Here are last few commands to start our project:  
->cd my-react-app
->
->npm install
->
->npm run dev
->
+`cd my-react-app`  
+
+`npm install`  
+
+`npm run dev`  
+
 ## Creating A Card Component  
 Firstly, just create a new file/Component (e.g. Card.jsx).    //jsx means JavaScript Xml which allows us to use js variables inside html tags. 
 React component names must always begin with a capital letter.  
@@ -68,4 +68,31 @@ and can also be written as
 
 ## Render Lists  
 
-![image](https://github.com/user-attachments/assets/87f8ea6f-396b-4d5f-b8e4-fb3b3456fdf3)
+![image](https://github.com/user-attachments/assets/87f8ea6f-396b-4d5f-b8e4-fb3b3456fdf3)  
+
+>A list of objects
+
+![image](https://github.com/user-attachments/assets/85dfd542-8151-4dd8-a38e-d9da53ffbc5c)  
+
+>Sort List Items according to the fruits name
+>
+>`fruits.sort((a, b) => a.name.localeCompare(b.name))`
+
+>Sort List items according to fruits calories
+>
+>`fruits.sort((a, b) => a.calories - b.calories)`
+
+### Filter fruits under a condition  
+![image](https://github.com/user-attachments/assets/aa6f0907-ad5b-4ec0-878d-1c23b80752ff)  
+
+### We can also send this list as props  
+
+![image](https://github.com/user-attachments/assets/0a6473ab-441e-4877-a289-abddcd018a22)  
+
+![image](https://github.com/user-attachments/assets/86c378aa-dff3-4dc9-85d3-fadd5c729407)  
+
+
+## Click Events  
+>An Interaction when a user click on the specific element. 
+>We can respond to clicks by passing a callback to the onClick event handler
+
