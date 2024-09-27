@@ -94,5 +94,28 @@ and can also be written as
 
 ## Click Events  
 >An Interaction when a user click on the specific element. 
->We can respond to clicks by passing a callback to the onClick event handler
+>We can respond to clicks by passing a callback to the onClick event handler.
+
+![image](https://github.com/user-attachments/assets/10a320e6-c6a5-4a6f-936a-30f229e5ccc8)  
+
+![image](https://github.com/user-attachments/assets/4a417a21-5219-4f84-8b18-42f4281f3e21)
+
+> We can send parameters with callback but we have to wrap this callback with an another function 
+>
+> because if we don't the callback will execute as the component renders, without clicking the button.
+
+![image](https://github.com/user-attachments/assets/9abb19da-b58d-432c-86c0-517de105e4a7)  
+
+
+> Event
+
+![image](https://github.com/user-attachments/assets/fe9a4de8-51e1-4afb-a9c1-27269a5c071e)  
+
+![image](https://github.com/user-attachments/assets/034fce0c-f9a1-4538-8652-17e327f79194)  
+
+## React Hooks  
+
+> Special functions that allows functional components to use react features without writing class components.
+>
+> 
 
