@@ -116,6 +116,9 @@ and can also be written as
 ## React Hooks  
 
 > Special functions that allows functional components to use react features without writing class components.
->
-> 
 
+### useState() hook  
+A react hook that allows us to create state variables and a setter function to update its value.  
+[name, setName]  
+
+![image](https://github.com/user-attachments/assets/ba90d4fa-bc37-46e3-944f-baa806145c2c)
