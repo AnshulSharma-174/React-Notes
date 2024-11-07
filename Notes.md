@@ -121,4 +121,19 @@ and can also be written as
 A react hook that allows us to create state variables and a setter function to update its value.  
 [name, setName]  
 
-![image](https://github.com/user-attachments/assets/ba90d4fa-bc37-46e3-944f-baa806145c2c)
+![image](https://github.com/user-attachments/assets/ba90d4fa-bc37-46e3-944f-baa806145c2c)  
+
+## Event Handler  
+> Event handler used primarily with form elements. ex. <input>, <textarea>, <radio>, <select>
+
+### onChange event handler  
+> Triggers a function every time the value of the input changes.
+
+![image](https://github.com/user-attachments/assets/024a5167-25f7-43c4-b260-dab40450435f)
+
+![image](https://github.com/user-attachments/assets/6b0ce143-5a46-4186-969d-5fa6ee7466bc)  
+
+
+
+
+
